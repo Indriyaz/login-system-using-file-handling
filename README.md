@@ -4,7 +4,7 @@ Features:
 input email validation
 input password validation
 password reset
-password retrive
+password retrieve
 new user registration
 no duplication of email id/username are allowed
 user validation
